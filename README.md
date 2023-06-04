@@ -96,6 +96,58 @@ Solution
 1. A real-time dashboard showing the bank's current transactions and revenue:
 ![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/f340df84-a911-4cef-a861-02ed9f7d526b)
 
+2. A graph displaying customer account balances over time:
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/03c6f897-dd63-479d-980d-b8d0fa4bf653)
+
+
+3. A map displaying the bank's branch locations and current foot traffic:
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/fd90c396-397f-459e-9ab9-84344e0085f6)
+
+4. A pie chart showing the breakdown of deposit accounts by type (e.g. checking, savings,
+etc.):
+
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/271925f2-454a-4acd-8c15-38e6aa6bde99)
+
+
+5. A bar chart displaying loan portfolio by type (e.g. mortgage, auto, personal):
+
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/3cbe5b78-a8a7-4050-a89d-c5deab56e244)
+
+
+6. A gauge displaying the percentage of customer satisfaction ratings:
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/89fc35bf-037d-4b19-9eba-e0424a53060a)
+
+
+7. A table displaying the bank's top performing investment products:
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/98ea9c20-35b2-46dd-a00a-b5bd309a7b1d)
+
+
+8. A heatmap showing the geographical distribution of the bank's customers:
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/30d2f6b0-8aea-4b96-9e81-56dd151201eb)
+
+9. A graph displaying the bank's ATM transactions over time:
+
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/8b217125-9332-4a4d-a770-b5e2c46556ca)
+
+
+10. A dashboard displaying the bank's compliance and security metrics:
+
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/67d3a92b-73d7-4eaf-8bd6-46c76d6c837a)
+
+
+Grafana on single Dashboard
+
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/6aef6962-63ad-43f3-96e2-df1a55a6fd4e)
+
+
+
+
+
+
+
+
+
+
 
 
 
