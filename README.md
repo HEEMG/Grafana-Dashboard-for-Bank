@@ -94,10 +94,12 @@ Solution
 
 
 1. A real-time dashboard showing the bank's current transactions and revenue:
+
 ![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/c64c17b2-7563-4fde-95e9-2224140786c2)
 
 
 2. A graph displaying customer account balances over time:
+
 ![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/0b1d5cb8-0e03-4fdb-8414-584723939155)
 
 
@@ -127,6 +129,7 @@ etc.):
 
 
 7. A table displaying the bank's top performing investment products:
+
 ![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/0d4960f4-abfb-41fb-aed6-5b2f0842fd61)
 
 
@@ -143,6 +146,7 @@ etc.):
 
 
 10. A dashboard displaying the bank's compliance and security metrics:
+
 ![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/16f8bd64-440f-4e7e-abd3-10609b87e150)
 
 
