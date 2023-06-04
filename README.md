@@ -4,7 +4,7 @@ Grafana Dashboard: Bank CEO
 
 
 
-Problem Statement
+## Problem Statement
 
 1. A real-time dashboard showing the bank's current transactions and revenue: This panel
 would display real-time information about the bank's transactions and revenue, allowing
@@ -40,7 +40,8 @@ well the bank is meeting regulatory requirements and protecting customer data.
 
 
 
-## Panel Details
+## Objective
+
 1. A real-time dashboard showing the bank's current transactions and revenue:
 * Columns: timestamp, transaction_amount, revenue
 * timestamp: timestamp of the transaction
@@ -87,6 +88,13 @@ etc.):
 * timestamp: timestamp of the compliance/security metric
 * metric: name of the compliance/security metric
 * metric_value: value of the compliance/security metric
+
+
+Solution 
+
+
+1. A real-time dashboard showing the bank's current transactions and revenue:
+![image](https://github.com/Hem5555/Grafana-Dashboard-for-Bank/assets/121716939/f340df84-a911-4cef-a861-02ed9f7d526b)
 
 
 
